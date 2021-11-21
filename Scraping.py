@@ -90,3 +90,6 @@ def mars_hemis(browser):
 
 if __name__ == "__main__":
     print(scrape_all())
+
+#BROWER QUIT!!!!!!
+browser.quit()
